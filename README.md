@@ -1,7 +1,7 @@
 **Career Objective:**
 To secure a position in the banking industry where I can leverage my skills in project management, data analysis, and problem-solving to drive organizational growth and innovation. I aim to build a dynamic professional career by collaborating with top professionals, contributing to impactful financial services, and achieving excellence in banking operations and data-driven decision-making.
 
-**Honors and Awards:**
+_Honors and Awards:_
 Title: Champion, National Hackathon 2014
 Team Name: Gravitybd
 Organizer: National Mobile Application Development Awareness & Capacity Building Program.
