@@ -1,7 +1,7 @@
-Career Objective:
+**Career Objective:**
 To secure a position in the banking industry where I can leverage my skills in project management, data analysis, and problem-solving to drive organizational growth and innovation. I aim to build a dynamic professional career by collaborating with top professionals, contributing to impactful financial services, and achieving excellence in banking operations and data-driven decision-making.
 
-Honors and Awards:
+**Honors and Awards:**
 Title: Champion, National Hackathon 2014
 Team Name: Gravitybd
 Organizer: National Mobile Application Development Awareness & Capacity Building Program.
@@ -11,7 +11,7 @@ Title: ICT Fellowship Award
 Session: 2017-2018
 Issuer: ICT Division, Ministry of Posts, Telecommunications and Information Technology.
 
-Professional Training:
+**Professional Training:**
 Training Title: OOP (MVC) PHP with CodeIgniter Framework
 Topic: HTML, CSS, PHP, DATABASE (Database & Hierarchical Model, Specialization, Generalization & Aggregation, Data Normalization, Relationships), JAVASCRIPT, MVC, SQL, CodeIgniter framework, AJAX, JQUERY, web programming, Web Server.
 Institute: Bangladesh Association of Software & Information Service (BASIS)
